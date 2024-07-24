@@ -19,7 +19,7 @@ This GitHub repository contains a robust blogging platform developed using Larav
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/blog.git
+   git clone https://github.com/DonalSaji/blog.git
    cd blog
    ```
 
@@ -40,7 +40,6 @@ This GitHub repository contains a robust blogging platform developed using Larav
 4. **Run Migrations**:
    ```bash
    php artisan migrate
-   php artisan db:seed
    ```
 
 5. **Start the Server**:
