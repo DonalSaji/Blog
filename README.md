@@ -30,19 +30,12 @@ This GitHub repository contains a robust blogging platform developed using Larav
    npm run dev
    ```
 
-3. **Setup Environment**:
-   - Copy the `.env.example` file to `.env` and configure your environment variables.
-   ```bash
-   cp .env.example .env
-   php artisan key:generate
-   ```
-
-4. **Run Migrations**:
+3. **Run Migrations**:
    ```bash
    php artisan migrate
    ```
 
-5. **Start the Server**:
+4. **Start the Server**:
    ```bash
    php artisan serve
    ```
